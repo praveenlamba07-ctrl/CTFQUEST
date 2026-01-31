@@ -5,7 +5,7 @@
 
 ---
 
-## Write-up (First Person)
+## Write-up 
 
 I started this challenge by visiting the provided URL. At first glance, the webpage appeared extremely simple and almost useless, which immediately aligned with the hint: *“The lame old trick!”*. This suggested that the vulnerability was something very basic and often overlooked rather than a complex web exploit.
 
