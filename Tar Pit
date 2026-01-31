@@ -5,7 +5,7 @@
 
 ---
 
-## Write-up (First Person)
+## Write-up 
 
 When I started this challenge, I was given access to a Linux host that appeared properly configured on the surface. There were no immediately exposed services or obvious vulnerabilities, which indicated that the challenge would require **thorough enumeration and attention to detail**.
 
