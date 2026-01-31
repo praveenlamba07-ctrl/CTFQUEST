@@ -5,7 +5,7 @@
 
 ---
 
-## Write-up (First Person)
+## Write-up 
 
 I started this challenge by interacting with the web application themed around *La Casa de Papel*. The objective was clear: gain access to the vault, which was restricted exclusively to users with the **Professor** role. The hint *“Forged What ..?”* immediately suggested an issue related to **token forgery**, most likely involving JSON Web Tokens (JWT).
 
@@ -58,4 +58,5 @@ Inside the vault, the flag was revealed.
 ---
 
 ## Final Flag
+SECE{M0n3y_H31st_15_0n!}
 
