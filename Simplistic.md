@@ -37,9 +37,7 @@ This command spawned a root shell, confirming successful privilege escalation.
 
 With root access obtained, I navigated to the root directory and retrieved the final flag.
 
----
 
-## Root Flag
 
 
 ---
