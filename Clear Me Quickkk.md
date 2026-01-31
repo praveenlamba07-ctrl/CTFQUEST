@@ -1,7 +1,5 @@
-# Berners Street Hoax
-
-**Category:** OSINT  
-**Author:** —  
+**Category:** booster 
+**Author:** —  n0v4
 
 ---
 
